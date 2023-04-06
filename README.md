@@ -1,6 +1,6 @@
 # Hackerrank Java Solutions
 
-<img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
+<img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.Hackerrank-Java-Solutions">
 
 <p>
     <a href="https://www.hackerrank.com/Vrushali__D">
