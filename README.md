@@ -34,19 +34,19 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|MySQL|[Revising-the-Select-Query-I](Basic%20Select%20Queries/Revising-the-Select-Query-I.sql)|Basic|
-|2|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|MySQL|[Revising-the-Select-Query-II](Basic%20Select%20Queries/Revising-the-Select-Query-II.sql)|Basic|
-|3|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|MySQL|[Select-All.sql](Basic%20Select%20Queries/Select-All.sql)|Basic|
-|4|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|MySQL|[Select-By-ID.sql](Basic%20Select%20Queries/Select-By-ID.sql)|Basic|
-|5|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|MySQL|[Japanese-Cities'-Attributes.sql](Basic%20Select%20Queries/Japanese-Cities'-Attributes.sql)|Basic|
-|6|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|MySQL|[Japanese-Cities'-Names.sql](Basic%20Select%20Queries/Japanese-Cities'-Names.sql)|Basic|
-|7|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|MySQL|[Weather-Observation-Station-1.sql](Basic%20Select%20Queries/Weather-Observation-Station-1.sql)|Basic|
-|8|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|MySQL|[Weather-Observation-Station-3sql](Basic%20Select%20Queries/Weather-Observation-Station-3.sql)|Basic|
-|9|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|MySQL|[Weather-Observation-Station-4.sql](Basic%20Select%20Queries/Weather-Observation-Station-4.sql])|Basic|
-|10|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|MySQL|[Weather-Observation-Station-5.sql](Basic%20Select%20Queries/Weather-Observation-Station-5.sql)|Intermediate|
-|11|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|MySQL|[Weather-Observation-Station-6.sql](Basic%20Select%20Queries/Weather-Observation-Station-6.sql)|Basic|
-|12|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|MySQL|[Weather-Observation-Station-7.sql](Basic%20Select%20Queries/Weather-Observation-Station-7.sql)|Basic|
-|13|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|MySQL|[Weather-Observation-Station-8.sql](Basic%20Select%20Queries/Weather-Observation-Station-8.sql)|Basic|
+|1|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|Java 7|[Welcome-To-Java](Introduction/Welcome-To-Java.java)|Basic|
+|2|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|Java 7|[Java-Stdin-And-Stdout-I](Introduction/Java-Stdin-And-Stdout-I.java)|Basic|
+|3|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|Java 7|[Java-If-Else](Introduction/Java-If-Else.java)|Basic|
+|4|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|Java 7|[Java-Stdin-And-Stdout-II](Introduction/Java-Stdin-And-Stdout-II.java)|Basic|
+|5|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)|Java 7|[Java-Output-Formatting](Introduction/JJava-Output-Formatting.java)|Basic|
+|6|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|Java 7|[Java-Loops-I](Introduction/Java-Loops-I.java)|Basic|
+|7|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem/problem)|Java 7|[Java-Loops-II](Introduction/Java-Loops-II.java)|Basic|
+|8|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|Java 7|[Java-Datatypes](Introduction/Java-Datatypes.java)|Basic|
+|9|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|Java 7|[Java-End-of-File](Introduction/Java-End-of-File.java])|Basic|
+|10|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|Java 7|[Java-Static-Initializer-Block](Introduction/Java-Static-Initializer-Block.java)|Basic|
+|11|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|Java 7|[Java-Int-to-String](Introduction/Java-Int-to-String.java)|Basic|
+|12|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|Java 7|[Java-Date-and-Time](Introduction/Java-Date-and-Time.java)|Basic|
+|13|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)|Java 7|[Java-Currency-Formatter](Introduction/Java-Currency-Formatter.java)|Basic|
     
 ### 2. Strings
 
