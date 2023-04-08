@@ -53,18 +53,17 @@
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
 |1|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|Java 7|[Java-Strings-Introduction](Strings/Java-Strings-Introduction.java)|Basic|
-|2|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|Java 7|[The-PADS](Strings/The-PADS.java)|Basic|
-|3|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|Java 7|[Occupations](Strings/Occupations.java)|Intermediate|
-|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|Java 7|[Binary-Tree-Nodes](Strings/Binary-Tree-Nodes.java)|Intermediate|
-|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|Java 7|[New-Companies](Strings/New-Companies.java)|Intermediate|
-|6|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|Java 7|[Japanese-Cities'-Names](Strings/Japanese-Cities'-Names.java)|Basic|
-|7|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|Java 7|[Weather-Observation-Station-1](Strings/Weather-Observation-Station-1.java)|Basic|
-|8|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|Java 7|[Weather-Observation-Station](Strings/Weather-Observation-Station-3.java)|Basic|
-|9|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|Java 7|[Weather-Observation-Station-4](Strings/Weather-Observation-Station-4.java])|Basic|
-|10|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|Java 7|[Weather-Observation-Station-5](Strings/Weather-Observation-Station-5.java)|Intermediate|
-|11|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|Java 7|[Weather-Observation-Station-6](Strings/Weather-Observation-Station-6.java)|Basic|
-|12|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|Java 7|[Weather-Observation-Station-7](Strings/Weather-Observation-Station-7.java)|Basic|
-|13|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|Java 7|[Weather-Observation-Station-8](Strings/Weather-Observation-Station-8.java)|Basic|
+|2|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|Java 7|[Java-Substring](Strings/Java-Substring.java)|Basic|
+|3|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|Java 7|[Java-Substring-Comparisons](Strings/Java-Substring-Comparisons.java)|Basic|
+|4|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|Java 7|[Java-String-Reverse](Strings/Java-String-Reverse.java)|Basic|
+|5|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|Java 7|[Java-Anagrams](Strings/Java-Anagrams.java)|Basic|
+|6|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|Java 7|[Java-String-Tokens](Strings/Java-String-Tokens.java)|Basic|
+|7|[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)|Java 7|[Pattern-Syntax-Checker](Strings/Pattern-Syntax-Checker.java)|Basic|
+|8|[Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)|Java 7|[Java-Regex](Strings/Java-Regex.java)|Intermediate|
+|9|[Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)|Java 7|[Java-Regex-2-Duplicate-Words](Strings/Java-Regex-2-Duplicate-Words.java])|Basic|
+|10|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|Java 7|[Valid-Username-Regular-Expression](Strings/Valid-Username-Regular-Expression.java)|Basic|
+|11|[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)|Java 7|[Tag-Content-Extractor](Strings/Tag-Content-Extractor.java)|Basic|
+
     
 ### 3. BigNumber
 
