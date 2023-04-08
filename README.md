@@ -52,19 +52,19 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|MySQL|[Type-of-Triangle.sql](Advanced%20Select/Type-of-Triangle.sql)|Basic|
-|2|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|MySQL|[The-PADS.sql](Advanced%20Select/The-PADS.sql)|Basic|
-|3|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|MySQL|[Occupations.sql](Advanced%20Select/Occupations.sql)|Intermediate|
-|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|MySQL|[Binary-Tree-Nodes.sql](Advanced%20Select/Binary-Tree-Nodes.sql)|Intermediate|
-|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|MySQL|[New-Companies.sql](Advanced%20Select/New-Companies.sql)|Intermediate|
-|6|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|MySQL|[Japanese-Cities'-Names.sql](Basic%20Select%20Queries/Japanese-Cities'-Names.sql)|Basic|
-|7|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|MySQL|[Weather-Observation-Station-1.sql](Basic%20Select%20Queries/Weather-Observation-Station-1.sql)|Basic|
-|8|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|MySQL|[Weather-Observation-Station-3sql](Basic%20Select%20Queries/Weather-Observation-Station-3.sql)|Basic|
-|9|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|MySQL|[Weather-Observation-Station-4.sql](Basic%20Select%20Queries/Weather-Observation-Station-4.sql])|Basic|
-|10|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|MySQL|[Weather-Observation-Station-5.sql](Basic%20Select%20Queries/Weather-Observation-Station-5.sql)|Intermediate|
-|11|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|MySQL|[Weather-Observation-Station-6.sql](Basic%20Select%20Queries/Weather-Observation-Station-6.sql)|Basic|
-|12|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|MySQL|[Weather-Observation-Station-7.sql](Basic%20Select%20Queries/Weather-Observation-Station-7.sql)|Basic|
-|13|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|MySQL|[Weather-Observation-Station-8.sql](Basic%20Select%20Queries/Weather-Observation-Station-8.sql)|Basic|
+|1|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|Java 7|[Java-Strings-Introduction](Strings/Java-Strings-Introduction.java)|Basic|
+|2|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|Java 7|[The-PADS](Strings/The-PADS.java)|Basic|
+|3|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|Java 7|[Occupations](Strings/Occupations.java)|Intermediate|
+|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|Java 7|[Binary-Tree-Nodes](Strings/Binary-Tree-Nodes.java)|Intermediate|
+|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|Java 7|[New-Companies](Strings/New-Companies.java)|Intermediate|
+|6|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|Java 7|[Japanese-Cities'-Names](Strings/Japanese-Cities'-Names.java)|Basic|
+|7|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|Java 7|[Weather-Observation-Station-1](Strings/Weather-Observation-Station-1.java)|Basic|
+|8|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|Java 7|[Weather-Observation-Station](Strings/Weather-Observation-Station-3.java)|Basic|
+|9|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|Java 7|[Weather-Observation-Station-4](Strings/Weather-Observation-Station-4.java])|Basic|
+|10|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|Java 7|[Weather-Observation-Station-5](Strings/Weather-Observation-Station-5.java)|Intermediate|
+|11|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|Java 7|[Weather-Observation-Station-6](Strings/Weather-Observation-Station-6.java)|Basic|
+|12|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|Java 7|[Weather-Observation-Station-7](Strings/Weather-Observation-Station-7.java)|Basic|
+|13|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|Java 7|[Weather-Observation-Station-8](Strings/Weather-Observation-Station-8.java)|Basic|
     
 ### 3. BigNumber
 
