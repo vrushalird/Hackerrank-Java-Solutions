@@ -77,21 +77,21 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|MySQL|[Population-Census.sql](Basic%20Join/Population-Census.sql)|Basic|
-|2|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|MySQL|[African-Cities.sql](Basic%20Join/African-Cities.sql)|Basic|
-|3|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|MySQL|[Average-Population-of-Each-Continent.sql](Basic%20Join/Average-Population-of-Each-Continent.sql)|Basic|
-|4|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|MySQL|[The-Report.sql](Basic%20Join/The-Report.sql)|Intermediate|
-|5|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|MySQL|[Top-Competitors.sql](Basic%20Join/Top-Competitors.sql)|Intermediate|
-|6|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|MySQL|[Ollivander's-Inventory.sql](Basic%20Join/Ollivander's-Inventory.sql)|Intermediate|
-|7|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|MySQL|[Challenges.sql](Basic%20Join/Challenges.sql)|Intermediate|
-|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|MySQL|[Contest-Leaderboard.sql](Basic%20Join/Contest-Leaderboard.sql)|Intermediate|
-|9|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|MySQL|[Weather-Observation-Station-4.sql](Basic%20Select%20Queries/Weather-Observation-Station-4.sql])|Basic|
-|10|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|MySQL|[Weather-Observation-Station-5.sql](Basic%20Select%20Queries/Weather-Observation-Station-5.sql)|Intermediate|
-|11|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|MySQL|[Weather-Observation-Station-6.sql](Basic%20Select%20Queries/Weather-Observation-Station-6.sql)|Basic|
-|12|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|MySQL|[Weather-Observation-Station-7.sql](Basic%20Select%20Queries/Weather-Observation-Station-7.sql)|Basic|
-|13|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|MySQL|[Weather-Observation-Station-8.sql](Basic%20Select%20Queries/Weather-Observation-Station-8.sql)|Basic|
-|14|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|MySQL|[Weather-Observation-Station-9.sql](Basic%20Select%20Queries/Weather-Observation-Station-9.sql)|Basic|
-|15|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|MySQL|[Weather-Observation-Station-10.sql](Basic%20Select%20Queries/Weather-Observation-Station-10.sql)|Basic|
+|1|[Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)|Java 7|[Population-Census.sql](Data%20Structures/Population-Census.sql)|Basic|
+|2|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|Java 7|[African-Cities.sql](Data%20Structures/African-Cities.sql)|Basic|
+|3|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)|Java 7|[Average-Population-of-Each-Continent.sql](Data%20Structures/Average-Population-of-Each-Continent.sql)|Basic|
+|4|[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)|Java 7|[The-Report.sql](Data%20Structures/The-Report.sql)|Intermediate|
+|5|[Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)|Java 7|[Top-Competitors.sql](Data%20Structures/Top-Competitors.sql)|Intermediate|
+|6|[Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)|Java 7|[Ollivander's-Inventory.sql](Data%20Structures/Ollivander's-Inventory.sql)|Intermediate|
+|7|[Java List](https://www.hackerrank.com/challenges/java-list/problem)|Java 7|[Challenges.sql](Data%20Structures/Challenges.sql)|Intermediate|
+|8|[Java Map](https://www.hackerrank.com/challenges/phone-book/problem)|Java 7|[Contest-Leaderboard.sql](Data%20Structures/Contest-Leaderboard.sql)|Intermediate|
+|9|[Java Stack](https://www.hackerrank.com/challenges/java-stack/problem)|Java 7|[Weather-Observation-Station-4.sql](Data%20Structures/Weather-Observation-Station-4.sql])|Basic|
+|10|[Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem)|Java 7|[Weather-Observation-Station-5.sql](Data%20Structures/Weather-Observation-Station-5.sql)|Intermediate|
+|11|[Java Generics](https://www.hackerrank.com/challenges/java-generics/problem)|Java 7|[Weather-Observation-Station-6.sql](Data%20Structures/Weather-Observation-Station-6.sql)|Basic|
+|12|[Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)|Java 7|[Weather-Observation-Station-7.sql](Data%20Structures/Weather-Observation-Station-7.sql)|Basic|
+|13|[Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)|Java 7|[Weather-Observation-Station-8.sql](Data%20Structures/Weather-Observation-Station-8.sql)|Basic|
+|14|[Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)|Java 7|[Weather-Observation-Station-9.sql](Data%20Structures/Weather-Observation-Station-9.sql)|Basic|
+|15|[Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)|Java 7|[Weather-Observation-Station-10.sql](Data%20Structures/Weather-Observation-Station-10.sql)|Basic|
 
 ### 5. Object Oriented Programming
 
