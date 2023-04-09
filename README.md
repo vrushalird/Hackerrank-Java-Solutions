@@ -69,9 +69,9 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|MySQL|[Revising-Aggregations-The-Count-Function.sql](Aggregation/Revising-Aggregations-The-Count-Function.sql)|Basic|
-|2|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|MySQL|[Revising-Aggregations-The-Sum-Function.sql](Aggregation/Revising-Aggregations-The-Sum-Function.sql)|Basic|
-|3|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|MySQL|[Revising-Aggregations-Averages.sql](Aggregation/Revising-Aggregations-Averages.sql)|Basic|
+|1|[Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)|Java 7|[Java-BigDecimal](BigNumber/Java-BigDecimal.java)|Basic|
+|2|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|Java 7|[Java-Primality-Test](BigNumber/Java-Primality-Test.java)|Basic|
+|3|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)|Java 7|[Java-BigInteger](BigNumber/Java-BigInteger.java)|Basic|
 
 ### 4. Data Structures
 
