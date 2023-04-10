@@ -97,14 +97,14 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem)|MySQL|[SQL-Project-Planning.sql](Advanced%20Join/SQL-Project-Planning.sql)|Intermediate| 
-|2|[Placements](https://www.hackerrank.com/challenges/placements/problem)|MySQL|[Placements.sql](Advanced%20Join/Placements.sql)|Intermediate|
-|3|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)|MySQL|[Symmetric-Pairs.sql](Advanced%20Join/Symmetric-Pairs.sql)|Intermediate|
-|4|[Interviews](https://www.hackerrank.com/challenges/interviews/problem)|MySQL|[Interviews.sql](Advanced%20Join/Interviews.sql)|Intermediate|
-|5|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)|MySQL|[15-Days-of-Learning-SQL.sql](Advanced%20Join/15-Days-of-Learning-SQL.sql)|Advanced|
-|6|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|MySQL|[Ollivander's-Inventory.sql](Basic%20Join/Ollivander's-Inventory.sql)|Intermediate|
-|7|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|MySQL|[Challenges.sql](Basic%20Join/Challenges.sql)|Intermediate|
-|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|MySQL|[Contest-Leaderboard.sql](Basic%20Join/Contest-Leaderboard.sql)|Intermediate|
+|1|[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)|Java 7|[Java-Inheritance-I](Object%20Oriented%20Programming/Java-Inheritance-I.java)|Basic| 
+|2|[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)|Java 7|[Java-Inheritance-II](Object%20Oriented%20Programming/Java-Inheritance-II.java)|Basic|
+|3|[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)|Java 7|[Java-Abstract-Class](Object%20Oriented%20Programming/Java-Abstract-Class.java)|Basic|
+|4|[Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)|Java 7|[Java-Interface](Object%20Oriented%20Programming/Java-Interface.java)|Basic|
+|5|[Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)|Java 7|[Java-Method-Overriding](Object%20Oriented%20Programming/Java-Method-Overriding.java)|Basic|
+|6|[Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)|Java 7|[Java-Method-Overriding-2-(Super-Keyword)](Object%20Oriented%20Programming/Java-Method-Overriding-2-(Super-Keyword).java)|Basic|
+|7|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)|Java 7|[Java-Instanceof-keyword](Object%20Oriented%20Programming/Java-Instanceof-keyword.java)|Basic|
+|8|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)|Java 7|[Java-Iterator](Object%20Oriented%20Programming/Java-Iterator.java)|Basic|
     
 ### 6. Exception Handling
 
