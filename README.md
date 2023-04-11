@@ -110,8 +110,8 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|MySQL|[Draw-The-Triangle-1.sql](Alternative%20Queries/Draw-The-Triangle-1.sql)|Advanced| 
-|2|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|MySQL|[Draw-The-Triangle-2.sql](Alternative%20Queries/Draw-The-Triangle-2.sql)|Advanced|
+|1|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|Java 7|[Draw-The-Triangle-1.sql](Exception%20Handling/Draw-The-Triangle-1.java)|Advanced| 
+|2|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|Java 7|[Draw-The-Triangle-2.sql](Exception%20Handling/Draw-The-Triangle-2.java)|Advanced|
 
 ### 7. Advanced
 
