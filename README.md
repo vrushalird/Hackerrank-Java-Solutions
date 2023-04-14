@@ -110,8 +110,8 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|Java 7|[Draw-The-Triangle-1.sql](Exception%20Handling/Draw-The-Triangle-1.java)|Advanced| 
-|2|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|Java 7|[Draw-The-Triangle-2.sql](Exception%20Handling/Draw-The-Triangle-2.java)|Advanced|
+|1|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)|Java 7|[Java-Exception-Handling-(Try-catch)](Exception%20Handling/ava-Exception-Handling-(Try-catch).java)|Basic| 
+|2|[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)|Java 7|[Java-Exception-Handling](Exception%20Handling/Java-Exception-Handling.java)|Basic|
 
 ### 7. Advanced
 
