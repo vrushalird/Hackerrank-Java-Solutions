@@ -117,18 +117,18 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|Java 7|[Draw-The-Triangle-1.sql](Advanced/Draw-The-Triangle-1.java)|Advanced| 
-|2|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|Java 7|[Draw-The-Triangle-2.sql](Advanced/Draw-The-Triangle-2.java)|Advanced| 
-|3|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|Java 7|[Print-Prime-Numbers.sql](Advanced/Print-Prime-Numbers.java)|Advanced|
-|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|Java 7|[Binary-Tree-Nodes.sql](Advanced/Binary-Tree-Nodes.java)|Intermediate|
-|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|Java 7|[New-Companies.sql](Advanced/New-Companies.java)|Intermediate|
-|6|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|Java 7|[Japanese-Cities'-Names.sql](Advanced/Japanese-Cities'-Names.java)|Basic|
-|7|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|Java 7|[Weather-Observation-Station-1.sql](Advanced/Weather-Observation-Station-1.java)|Basic|
-|8|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|Java 7|[Weather-Observation-Station-3sql](Advanced/Weather-Observation-Station-3.java)|Basic|
-|9|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|Java 7|[Weather-Observation-Station-4.sql](Advanced/Weather-Observation-Station-4.java])|Basic|
-|10|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|Java 7|[Weather-Observation-Station-5.sql](Advanced/Weather-Observation-Station-5.java)|Intermediate|
-|11|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|Java 7|[Weather-Observation-Station-6.sql](Advanced/Weather-Observation-Station-6.java)|Basic|
-|12|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|Java 7|[Weather-Observation-Station-7.sql](Advanced/Weather-Observation-Station-7.java)|Basic|
+|1|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)|Java 7|[Java-Visitor-Pattern](Advanced/Java-Visitor-Pattern.java)|Advanced| 
+|2|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)|Java 7|[Java-Varargs-Simple-Addition](Advanced/Java-Varargs-Simple-Addition.java)|Advanced| 
+|3|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)|Java 7|[Java-Reflection-Attributes](Advanced/Java-Reflection-Attributes.java)|Advanced|
+|4|[Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)|Java 7|[Can-You-Access](Advanced/Can-You-Access.java)|Intermediate|
+|5|[Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)|Java 7|[Prime-Checker](Advanced/Prime-Checker.java)|Intermediate|
+|6|[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)|Java 7|[Java-Factory-Pattern](Advanced/Java-Factory-Pattern.java)|Basic|
+|7|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)|Java 7|[Java-Singleton-Pattern](Advanced/Java-Singleton-Pattern.java)|Basic|
+|8|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)|Java 7|[Java-Annotations](Advanced/Java-Annotations.java)|Basic|
+|9|[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)|Java 7|[Covariant-Return-Types](Advanced/Covariant-Return-Types.java])|Basic|
+|10|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)|Java 7|[Java-Lambda-Expressions](Advanced/Java-Lambda-Expressions.java)|Intermediate|
+|11|[Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)|Java 7|[Java-MD5](Advanced/Java-MD5.java)|Basic|
+|12|[Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|Java 7|[Java-SHA-256](Advanced/Java-SHA-256.java)|Basic|
     
     
     
