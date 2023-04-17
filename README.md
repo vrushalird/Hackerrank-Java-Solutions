@@ -131,7 +131,18 @@
 |12|[Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|Java 7|[Java-SHA-256](Advanced/Java-SHA-256.java)|Basic|
     
     
-    
+<br><br>
+---
+<p align="center">
+    <a href="https://img.shields.io/github/stars/vrushalird/Hackerrank-Java-Solutions?style=social">
+    <img src="https://img.shields.io/github/stars/vrushalird/Hackerrank-Java-Solutions?style=social" alt="GitHub stars">
+    <a href="https://img.shields.io/github/forks/vrushalird/Hackerrank-Java-Solutions?style=social">
+    <img src="https://img.shields.io/github/forks/vrushalird/Hackerrank-Java-Solutions?style=social" alt="GitHub forks">
+    <a href="https://img.shields.io/github/watchers/vrushalird/Hackerrank-Java-Solutions?style=social">
+    <img src="https://img.shields.io/github/watchers/vrushalird/Hackerrank-Java-Solutions?style=social" alt="GitHub watchers">
+    <a href="https://img.shields.io/github/followers/vrushalird?style=social">
+    <img src="https://img.shields.io/github/followers/vrushalird?style=social" alt="GitHub followers">
+</p>      
     
     
     
