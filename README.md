@@ -118,17 +118,17 @@
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
 |1|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)|Java 7|[Java-Visitor-Pattern](Advanced/Java-Visitor-Pattern.java)|Advanced| 
-|2|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)|Java 7|[Java-Varargs-Simple-Addition](Advanced/Java-Varargs-Simple-Addition.java)|Advanced| 
-|3|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)|Java 7|[Java-Reflection-Attributes](Advanced/Java-Reflection-Attributes.java)|Advanced|
-|4|[Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)|Java 7|[Can-You-Access](Advanced/Can-You-Access.java)|Intermediate|
-|5|[Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)|Java 7|[Prime-Checker](Advanced/Prime-Checker.java)|Intermediate|
+|2|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)|Java 7|[Java-Varargs-Simple-Addition](Advanced/Java-Varargs-Simple-Addition.java)|Basic| 
+|3|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)|Java 7|[Java-Reflection-Attributes](Advanced/Java-Reflection-Attributes.java)|Basic|
+|4|[Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)|Java 7|[Can-You-Access](Advanced/Can-You-Access.java)|Advanced|
+|5|[Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)|Java 7|[Prime-Checker](Advanced/Prime-Checker.java)|Basic|
 |6|[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)|Java 7|[Java-Factory-Pattern](Advanced/Java-Factory-Pattern.java)|Basic|
 |7|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)|Java 7|[Java-Singleton-Pattern](Advanced/Java-Singleton-Pattern.java)|Basic|
-|8|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)|Java 7|[Java-Annotations](Advanced/Java-Annotations.java)|Basic|
-|9|[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)|Java 7|[Covariant-Return-Types](Advanced/Covariant-Return-Types.java])|Basic|
-|10|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)|Java 7|[Java-Lambda-Expressions](Advanced/Java-Lambda-Expressions.java)|Intermediate|
-|11|[Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)|Java 7|[Java-MD5](Advanced/Java-MD5.java)|Basic|
-|12|[Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|Java 7|[Java-SHA-256](Advanced/Java-SHA-256.java)|Basic|
+|8|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)|Java 7|[Java-Annotations](Advanced/Java-Annotations.java)|Advanced|
+|9|[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)|Java 7|[Covariant-Return-Types](Advanced/Covariant-Return-Types.java])|Advanced|
+|10|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)|Java 7|[Java-Lambda-Expressions](Advanced/Java-Lambda-Expressions.java)|Advanced|
+|11|[Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)|Java 7|[Java-MD5](Advanced/Java-MD5.java)|Advanced|
+|12|[Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|Java 7|[Java-SHA-256](Advanced/Java-SHA-256.java)|Advanced|
     
     
 <br><br>
